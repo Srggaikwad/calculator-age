@@ -1,0 +1,63 @@
+.cal
+{
+    text-align: center;
+    height: 500px;
+    width: 500px;
+    background-color: aquamarine;
+    margin:auto;
+    margin-bottom: 10px;
+    border-radius: 32px;
+}
+#surj
+{
+    margin-bottom:37px;
+    border-radius: 8px;
+}
+
+h2
+{
+color:orange
+}
+
+.age
+{
+    color:palevioletred;
+    font-size: large;
+    margin-top: 30px;
+}
+#age
+{
+    background-color: brown;
+    border-radius: 22px;
+}
+
+#calculate
+{
+background-color: orangered;
+height: 35px;
+width:119px;
+border-radius: 8px
+
+}
+
+#reset
+{
+    background-color: orangered;
+    border-radius: 8px;
+    margin:31px;
+    height:35px;
+}
+
+#sonu
+{
+    font-size: 31px;
+    color:tomato;
+}
+
+.class
+{
+
+}
+a{
+    margin:22px;
+}
